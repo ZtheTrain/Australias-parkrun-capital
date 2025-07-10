@@ -22,7 +22,7 @@ I used Datawrapper to visualise all these results.
 
 ## Skills gained during this project
 
-This project helped me reinforce and build my skills when it came to working with GeoPandas, scraping tools and cleaning data. It also allowed me to become more familiar with Datawrapper as a visualisation platform. I also gained confidence in taking an idea from initial conception through to the finished product, learning how to navigate obstacles and pivot the projects as required along the way.
+This project helped me reinforce and build my skills when it came to working with GeoPandas, scraping tools and cleaning data. It also allowed me to become more familiar with Datawrapper as a visualisation platform. I also gained confidence in taking an idea from initial conception through to the finished product, learning how to navigate obstacles and pivot the project as required along the way.
 
 ## Things I would have liked to do
 
